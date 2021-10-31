@@ -1,0 +1,8 @@
+https://twitter.com/i/api/graphql/dnSxc0qtHKEYyzP5CvBbDw/Retweeters?variables={"tweetId":"1440494109651730439","count":80,"withTweetQuoteCount":false,"includePromotedContent":true,"withSuperFollowsUserFields":true,"withUserResults":true,"withBirdwatchPivots":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true}
+https://twitter.com/i/api/graphql/dnSxc0qtHKEYyzP5CvBbDw/Retweeters?variables={"tweetId":"1440494109651730439","count":80,"cursor":"HBaC5cb8iLTuwC8AAA==","withTweetQuoteCount":false,"includePromotedContent":true,"withSuperFollowsUserFields":true,"withUserResults":true,"withBirdwatchPivots":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true}
+https://twitter.com/i/api/graphql/dnSxc0qtHKEYyzP5CvBbDw/Retweeters?variables={"tweetId":"1440494109651730439","count":80,"cursor":"HBbCyMuZypbdwC8AAA==","withTweetQuoteCount":false,"includePromotedContent":true,"withSuperFollowsUserFields":true,"withUserResults":true,"withBirdwatchPivots":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true}
+https://twitter.com/i/api/graphql/dnSxc0qtHKEYyzP5CvBbDw/Retweeters?variables={"tweetId":"1440494109651730439","count":80,"cursor":"HBaU7ayF4NPZwC8AAA==","withTweetQuoteCount":false,"includePromotedContent":true,"withSuperFollowsUserFields":true,"withUserResults":true,"withBirdwatchPivots":false,"withReactionsMetadata":false,"withReactionsPerspective":false,"withSuperFollowsTweetFields":true}
+
+
+
+
